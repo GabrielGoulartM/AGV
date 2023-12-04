@@ -26,6 +26,7 @@ As ferramentas fundamentais para a implementação do AGV foram:
 | Arduino Uno      |
 | Ponte H L298      | 
 | Sensores IR (Infravermelho)     | 
+| Power Bank para robótica    | 
 
 ## Lógica utilizada
 
